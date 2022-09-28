@@ -292,3 +292,9 @@ Miscellaneous > Data Asset.
 > That’s all, good luck.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## CONTRIBUTORS
+
+> Contributed by:
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=weareedt/SetupRokoko)
