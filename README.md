@@ -1,18 +1,24 @@
+<a name="readme-top"></a>
+
 # HOW TO SETUP ROKOKO CHARACTERS WITH LIVE LINK IN UNREAL ENGINE 4
-UNREAL ENGINE VERSION: 4.26.2
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+<em>VERSION: 4.26.2
 ROKOKO SMARTSUIT
 
-DIFFICULTY: INTERMEDIATE
+DIFFICULTY: INTERMEDIATE</em>
+
+> Note: Has not been tested for Unreal Metahumans.
 
 <details>
 <summary>Table of Contents</summary>
 <ol>
-    <li>Plugins Required</li>
-    <li>Ready Player Me Characters</li>
-    <li>Importing</li>
-    <li>Setup</li>
-    <li>Bone Binding</li>
-    <li>Linking to Rokoko Live Link</li>
+    <li><a href="#plugins-required">Plugins Required</a></li>
+    <li><a href="#ready-player-me-characters">Ready Player Me Characters</a></li>
+    <li><a href="#importing">Importing</a></li>
+    <li><a href="#setup">Setup</a></li>
+    <li><a href="#bone-binding">Bone Binding</a></li>
+    <li><a href="#linking-to-rokoko-live-link">Linking to Rokoko Live Link</a></li>
 </ol>
 </details>
 
@@ -27,7 +33,7 @@ DIFFICULTY: INTERMEDIATE
 <img src="images/Picture4.png">
 </div><br><br>
 
-<hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
 
 ## 2.READY PLAYER ME CHARACTERS
 > For this example we are using a Ready Player Me Asset, you can create your own at:
@@ -63,7 +69,7 @@ Set the Smoothing to Face (See settings below).
 <img src="images/Picture11.png">
 </div><br><br>
 
-<hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
 
 ## 3.IMPORTING
 > Import the Ready Player Me asset into Unreal.
@@ -73,7 +79,7 @@ IMPORTANT: IF SHAPE KEY/BLENDSHAPE IS AVAILABLE, MAKE SURE TO IMPORT MORPH TARGE
 <img src="images/Picture12.png">
 </div><br><br>
 
-<hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
 
 ## 4.SETUP
 
@@ -157,7 +163,7 @@ Rokoko Face Pose > Local To Component > Rokoko Body Pose > Component To Local
 <img src="images/Picture29.png">
 </div><br><br>
 
-<hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
 
 
 ## 5.BONE BINDING
@@ -224,7 +230,7 @@ Miscellaneous > Data Asset.
 <img src="images/Picture43.png">
 </div><br><br>
 
-<hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
 
 ## 6. LINKING TO ROKOKO LIVE LINK
 > Open up Rokoko Studio.
