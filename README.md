@@ -24,7 +24,7 @@ DIFFICULTY: INTERMEDIATE</em>
 
 <hr>
 
-## 1.PLUGINS REQUIRED
+## PLUGINS REQUIRED
 
 <br><div align="center">
 <img src="images/Picture1.png">
@@ -33,9 +33,11 @@ DIFFICULTY: INTERMEDIATE</em>
 <img src="images/Picture4.png">
 </div><br><br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 2.READY PLAYER ME CHARACTERS
+<hr>
+
+## READY PLAYER ME CHARACTERS
 > For this example we are using a Ready Player Me Asset, you can create your own at:
 https://readyplayer.me/hub
 
@@ -69,9 +71,11 @@ Set the Smoothing to Face (See settings below).
 <img src="images/Picture11.png">
 </div><br><br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 3.IMPORTING
+<hr>
+
+## IMPORTING
 > Import the Ready Player Me asset into Unreal.
 IMPORTANT: IF SHAPE KEY/BLENDSHAPE IS AVAILABLE, MAKE SURE TO IMPORT MORPH TARGETS
 
@@ -79,9 +83,11 @@ IMPORTANT: IF SHAPE KEY/BLENDSHAPE IS AVAILABLE, MAKE SURE TO IMPORT MORPH TARGE
 <img src="images/Picture12.png">
 </div><br><br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 4.SETUP
+<hr>
+
+## SETUP
 
 > IMPORTANT: If not T-Pose > Select Skeleton, Make Character T-Pose
 Select the skeleton in the Content Browser, double click, a window will pop up, in this case rotate the Left Arm and Right Arm of the Skeleton. For best results make sure the fingers are all straighten. 
@@ -163,10 +169,12 @@ Rokoko Face Pose > Local To Component > Rokoko Body Pose > Component To Local
 <img src="images/Picture29.png">
 </div><br><br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<hr>
 
 
-## 5.BONE BINDING
+## BONE BINDING
 
 > Now all that is left is to Map Out the name of the bones from the Ready Player Me Asset to the Rokoko bones naming convention. To do this we need to create a Data Asset. To do this, in your Content Browser, right click on an empty area and select
 Miscellaneous > Data Asset.
@@ -232,7 +240,7 @@ Miscellaneous > Data Asset.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p><hr>
 
-## 6. LINKING TO ROKOKO LIVE LINK
+## LINKING TO ROKOKO LIVE LINK
 > Open up Rokoko Studio.
 
 <br><div align="center">
@@ -282,3 +290,5 @@ Miscellaneous > Data Asset.
 </div><br><br>
 
 > That’s all, good luck.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
